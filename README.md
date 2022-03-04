@@ -1,1 +1,1 @@
-# python_an_induction_course
+# induction_course
